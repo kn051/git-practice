@@ -1,4 +1,4 @@
-# git-practice
+﻿# git-practice
 This reo is for practice
 Change made at local repo
-mainブランチで更新（conflict用)
+rebase practiceブランチで更新(rebase conflict用)
